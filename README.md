@@ -1,3 +1,3 @@
-# Advents of Code
+# Advent of Code
 
- My solutions to every year of the [advent of code](https://adventofcode.com) in Python.
+My solutions to every year's [Advent of Code](https://adventofcode.com) in Python.
